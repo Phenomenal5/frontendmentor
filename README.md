@@ -1,5 +1,7 @@
-# Product List with Cart
-This project is a dynamic product list with a functional cart, built to practice modern front-end development skills such as HTML, CSS, and Javascript.
+# Product List with Cart.
+
+This project is a dynamic product list with a functional cart, built to practice modern front-end development skills such as **HTML**, **CSS**, and **JavaScript**.
+
 ---
 ## Features
 
